@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh2814&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh2814" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/ritesh-kumar232/" target="_blank">LinkedIn</a></h3>
 <p align="left">
 </p>
 
