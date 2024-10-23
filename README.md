@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kumar</h1>
 <h3 align="center">A passionate Spring Boot developer from India</h3>
-<img align ="right" alt="coding" width="400 src="[https://www.freepik.com/premium-vector/coding-programmer-developer-flat-vector-illustration-template_16243805.htm](https://images.app.goo.gl/FpKXWJ9sqyRDz5ov5)">
+<img align ="right" alt="coding" width="400 src="fhj.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh2814&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh2814" /> </p>
 
